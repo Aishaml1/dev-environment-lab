@@ -1,3 +1,5 @@
+![alt text](https://i.imgur.com/6Ts0QLz.png)
+
 # dev-environment-lab
 
 ## OS
