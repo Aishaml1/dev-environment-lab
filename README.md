@@ -1,39 +1,5 @@
 # dev-environment-lab
-]2;aisha@Aishas-MBP-2:~/code/sei/labs/dev-environment-lab]1;..vironment-lab[?1h=]7;file://Aishas-MBP-2/Users/aisha/code/sei/labs/dev-environment-lab]7;file://Aishas-MBP-2/Users/aisha/code/sei/labs/dev-environment-lab]2;aisha@Aishas-MBP-2]1;..vironment-lab]7;file://Aishas-MBP-2/Users/aisha/code/sei/labs/dev-environment-lab[?1h=[?1l>]2;clear]1;clear[H[2J]7;file://Aishas-MBP-2/Users/aisha/code/sei/labs/dev-environment-lab]2;aisha@Aishas-MBP-2]1;..vironment-lab]7;file://Aishas-MBP-2/Users/aisha/code/sei/labs/dev-environment-lab[?1h=[?1l>]2;cd]1;cd]2;aisha@Aishas-MBP-2:~]1;~[?1h=[?1l>]2;clear]1;clear[H[2J]2;aisha@Aishas-MBP-2:~]1;~[?1h=[?1l>]2;cd ..]1;cd]7;file://Aishas-MBP-2/Users/aisha/code/sei/labs]2;aisha@Aishas-MBP-2]1;~/code/sei/labs]7;file://Aishas-MBP-2/Users/aisha/code/sei/labs[?1h=[?1l>]2;clear]1;clear[H[2J]7;file://Aishas-MBP-2/Users/aisha/code/sei/labs]2;aisha@Aishas-MBP-2]1;~/code/sei/labs]7;file://Aishas-MBP-2/Users/aisha/code/sei/labs[?1h=[?1l>]2;clear]1;clear[H[2J]7;file://Aishas-MBP-2/Users/aisha/code/sei/labs]2;aisha@Aishas-MBP-2]1;~/code/sei/labs]7;file://Aishas-MBP-2/Users/aisha/code/sei/labs[?1h=Saving session...completed.
-Deleting expired sessions...      16 completed.
-]2;aisha@Aishas-MBP-2:~/code/sei/labs/dev-environment-lab]1;..vironment-lab[?1h=[?1l>]2;ls -G -a]1;ls.
-..
-.env
-.git
-README.md
-]2;aisha@Aishas-MBP-2:~/code/sei/labs/dev-environment-lab]1;..vironment-lab[?1h=[?1l>]2;cd ..]1;cd]2;aisha@Aishas-MBP-2:~/code/sei/labs]1;~/code/sei/labs[?1h=[?1l>]2;ls -G]1;lsdev-environment-lab
-]2;aisha@Aishas-MBP-2:~/code/sei/labs]1;~/code/sei/labs[?1h=[?1l>]2;cd ..]1;cd]2;aisha@Aishas-MBP-2:~/code/sei]1;~/code/sei[?1h=[?1l>]2;cd ..]1;cd]2;aisha@Aishas-MBP-2:~/code]1;~/code[?1h=[?1l>]2;cd..]1;cd..]2;aisha@Aishas-MBP-2:~/code]1;~/code[?1h=[?1l>]2;cd ~]1;cd]2;aisha@Aishas-MBP-2:~]1;~[?1h=[?1l>]2;code/sei]1;code/sei]2;aisha@Aishas-MBP-2:~/code/sei]1;~/code/sei[?1h=[?1l>]2;ls -G]1;lsassessments
-code-alongs
-labs
-lectures
-playground
-projects
-repos
-]2;aisha@Aishas-MBP-2:~/code/sei]1;~/code/sei[?1h=[?1l>]2;ls -G -a]1;ls.
-..
-.DS_Store
-assessments
-code-alongs
-labs
-lectures
-playground
-projects
-repos
-]2;aisha@Aishas-MBP-2:~/code/sei]1;~/code/sei[?1h=[?1l>]2;code/sei/lab]1;code/sei/lab]2;aisha@Aishas-MBP-2:~/code/sei]1;~/code/sei[?1h=[?1l>]2;ls -G -lAh]1;latotal 24
--rw-r--r--@ 1 aisha  staff   8.0K Sep 28 20:57 .DS_Store
-drwxr-xr-x  2 aisha  staff    64B Sep 27 14:58 assessments
-drwxr-xr-x  2 aisha  staff    64B Sep 27 14:58 code-alongs
-drwxr-xr-x  4 aisha  staff   128B Sep 28 20:53 labs
-drwxr-xr-x  2 aisha  staff    64B Sep 27 14:58 lectures
-drwxr-xr-x  2 aisha  staff    64B Sep 27 14:58 playground
-drwxr-xr-x  2 aisha  staff    64B Sep 27 14:58 projects
-drwxr-xr-x  2 aisha  staff    64B Sep 27 14:58 repos
-]2;aisha@Aishas-MBP-2:~/code/sei]1;~/code/sei[?1h=[?1l>]2;lab]1;lab]2;aisha@Aishas-MBP-2:~/code/sei]1;~/code/sei[?1h=[?1l>]2;dev-enironment-lab]1;dev-enironment-lab]2;aisha@Aishas-MBP-2:~/code/sei]1;~/code/sei[?1h=[?1l>]2;cd ..]1;cd]2;aisha@Aishas-MBP-2:~/code]1;~/code[?1h=[?1l>]2;cd sei]1;cd]2;aisha@Aishas-MBP-2:~/code/sei]1;~/code/sei[?1h=[?1l>]2;cd lab]1;cd]2;aisha@Aishas-MBP-2:~/code/sei]1;~/code/sei[?1h=[?1l>]2;cd labs]1;cd]2;aisha@Aishas-MBP-2:~/code/sei/labs]1;~/code/sei/labs[?1h=[?1l>]2;cd dev-environment-lab]1;cd]2;aisha@Aishas-MBP-2:~/code/sei/labs/dev-environment-lab]1;..vironment-lab[?1h=[?1l>]2;$SHELL >> README.md; echo >> README.md; echo "## zsh location" >> README.md; ]1;$SHELL]2;aisha@Aishas-MBP-2:~/code/sei/labs/dev-environment-lab]1;..vironment-lab[?1h=[?1l>]2;cd ~]1;cd]2;aisha@Aishas-MBP-2:~]1;~[?1h=
+
 ## OS
 
 darwin20.0
